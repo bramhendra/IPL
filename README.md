@@ -1,0 +1,8 @@
+# IPL
+RCB
+CSK
+RR
+KKR
+KXIP
+DD
+MI
